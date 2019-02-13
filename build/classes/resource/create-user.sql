@@ -1,0 +1,1 @@
+GRANT SELECT,INSERT,UPDATE,DELETE ON develop.* TO 'dev_user'@'localhost' IDENTIFIED BY 'dev_pass';
